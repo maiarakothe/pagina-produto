@@ -167,6 +167,7 @@ input {
     padding: 10px;
     border-radius: 5px;
     color: #260B01;
+    width: 100%;
 }
 
 textarea {
